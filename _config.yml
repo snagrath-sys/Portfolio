@@ -24,7 +24,7 @@ author:
   avatar           : "portfolio_1.JPG"
   name             : "Shriya Nagrath"
   pronouns         : "she/her"  
-  bio              : "Contributing to the transformation of healthcare through engineering."
+  bio              : "Contributing towards the transformation of healthcare through engineering."
   location         : "Boston, MA"
   uri              : # URL
   email            : "shriyanagrath85@gmail.com" 
@@ -43,7 +43,7 @@ author:
     
 
   # Social media
-  linkedin         :  "Shriya Nagrath"
+  linkedin         : "shriya-nagrath"
 
 
 # Publication Category - The following the list of publication categories and their headings
