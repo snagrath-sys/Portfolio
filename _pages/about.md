@@ -13,7 +13,7 @@ A Machine Learning Engineer specializing in medAI. I studied Computer Science at
 
 My research interests lie in multimodal Deep Learning, explainability, and Generative AI. I have worked in the areas of opthamology and microbiology.
 
-My expertise spans the machine learning pipeline—from data wrangling and annotation supervision to building large-scale models and evaluating them using metrics like AUROC, mAP, and IoU. I have led teams of up to five members, successfully driving projects involving foundational models with over 340M parameters.
+My expertise spans the machine learning pipeline. I have led teams of up to five members, successfully driving projects involving foundational models with over 340M parameters.
 
 I have a work experience of about 3+ years. Beyond technical skills, I bring strong communication and leadership. My passion lies in utilizing AI to transform healthcare and deliver real-world solutions that improve patient outcomes.
 
