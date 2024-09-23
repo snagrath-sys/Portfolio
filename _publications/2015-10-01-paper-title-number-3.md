@@ -2,7 +2,7 @@
 title: "Glaucoma detection using Fundus images"
 collection: publications
 category: manuscripts
-permalink: /publication/2010-10-01-paper-title-number-2
+# permalink: /publication/2010-10-01-paper-title-number-2
 excerpt: 'Foundation models used to detect glaucoma. XAI performed to evaluate accuracy of model learning.'
 # date: 2010-10-01
 # venue: 'Journal 1'
