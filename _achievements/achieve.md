@@ -1,0 +1,19 @@
+| Title                                                                                                   | Link                                       |
+|---------------------------------------------------------------------------------------------------------|--------------------------------------------|
+| Machine Learning by Stanford University                                                                 | [Coursera](https://www.coursera.org/learn/machine-learning)                     |
+| Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization                  | [Coursera](https://www.coursera.org/learn/deep-neural-networks-with-pytorch)   |
+| Sequence Models                                                                                        | [Coursera](https://www.coursera.org/learn/sequence-models)                      |
+| Convolutional Neural Networks                                                                           | [Coursera](https://www.coursera.org/learn/convolutional-neural-networks)        |
+| Neural Networks and Deep Learning                                                                      | [Coursera](https://www.coursera.org/learn/neural-networks-deep-learning)        |
+| Structuring Machine Learning Projects                                                                   | [Coursera](https://www.coursera.org/learn/machine-learning-projects)            |
+| Mathematics for Machine Learning: Linear Algebra                                                        | [Coursera](https://www.coursera.org/learn/mathematics-for-machine-learning-linalg)|
+| Mathematics for Machine Learning: Multivariate Calculus                                                | [Coursera](https://www.coursera.org/learn/mathematics-for-machine-learning-multivariable-calculus)|
+| Natural Language Processing with Classification and Vector Spaces                                      | [Coursera](https://www.coursera.org/learn/natural-language-processing-with-classification-and-vector-spaces)|
+| Natural Language Processing with Probabilistic Models                                                  | [Coursera](https://www.coursera.org/learn/natural-language-processing-with-probabilistic-models)|
+| Natural Language Processing with Sequence Models                                                        | [Coursera](https://www.coursera.org/learn/natural-language-processing-sequence-models)|
+| Natural Language Processing with Attention Models                                                       | [Coursera](https://www.coursera.org/learn/natural-language-processing-attention-models)|
+| EDV Python                                                                                              | [Oracle University](https://education.oracle.com)                                    |
+| EDV Data Science and Machine Learning Using Python EMP LVC                                              | [Oracle University](https://education.oracle.com)                                    |
+| Analog Circuits                                                                                        | [NPTEL](https://nptel.ac.in/courses/108/104/108104149/)                          |
+| Programming, Data Structures and Algorithms using Python                                                | [NPTEL](https://nptel.ac.in/courses/106/105/106105151/)                          |
+| Computer Organization and Architecture                                                                   | [NPTEL](https://nptel.ac.in/courses/117/103/117103051/)                          |
